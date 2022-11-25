@@ -26,11 +26,11 @@ export default function Home() {
                   hover:file:bg-blue-600
                 "/>
             </label>
-          </div>
-          <div className="py-0.5 bg-gray-200 my-5"></div>
-          <button type="submit" className="py-3 px-4 inline-flex gap-2 rounded-md border border-transparent font-semibold bg-gray-800 text-white hover:bg-gray-900 focus:outline-none focus:ring-2 focus:ring-gray-800 focus:ring-offset-2 transition-all text-sm dark:focus:ring-gray-900 dark:focus:ring-offset-gray-800">
-            Submit
-          </button>
+          
+          
+          <button type="button" class="py-3 px-4 inline-flex justify-center items-center gap-2 rounded-md border border-transparent font-semibold bg-gray-800 text-white hover:bg-gray-900 focus:outline-none focus:ring-2 focus:ring-gray-800 focus:ring-offset-2 transition-all text-sm dark:focus:ring-gray-900 dark:focus:ring-offset-gray-800">
+  SUBMIT</button>
+  </div>
         </form>
       </div>
     </section>
